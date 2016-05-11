@@ -132,7 +132,7 @@
 
 * 11 January 1934 -
 
-##### He developed the sorting algorithm quicksort in 1959/1960.[5] He also developed Hoare logic for verifying program correctness, and the formal language Communicating Sequential Processes (CSP) to specify the interactions of concurrent processes (including the dining philosophers problem) and the inspiration for the occam programming language.
+##### He developed the sorting algorithm quicksort in 1959/1960. He also developed Hoare logic for verifying program correctness, and the formal language Communicating Sequential Processes (CSP) to specify the interactions of concurrent processes (including the dining philosophers problem) and the inspiration for the occam programming language.
 
 # Tim Berners-Lee
 
