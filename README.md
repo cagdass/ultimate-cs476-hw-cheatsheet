@@ -2,6 +2,10 @@
 
 ##### Don't forget to drop a star on this repository.
 
+## Previous years questions
+
+### Spring 2019 - If the halting problem were decidable, which major theorem in mathematics would be impacted, and how?
+
 ## Charles Babbage
 
 * 26 December 1791 – 18 October 1871
